@@ -17,3 +17,8 @@ Skills: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
 
 ![GitHub metrics](https://metrics.lecoq.io/mstrilec)  
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo&unique={true|1|on|yes})
+
