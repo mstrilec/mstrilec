@@ -19,6 +19,5 @@ Skills: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
 
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo)
-![](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo&count={5})
 ![](https://spotify-recently-played-readme.vercel.app/api?user=8vyy430ezzl0khi4j6apcnydo&width=800)
 
